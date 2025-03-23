@@ -78,7 +78,7 @@ solid OpenSCAD_Model
   endfacet
   facet normal -1 0 0
     outer loop
-      vertex -10 0 12.5
+      vertex -10 0 15
       vertex -10 10 20
       vertex -10 0 10
     endloop
@@ -86,13 +86,13 @@ solid OpenSCAD_Model
   facet normal -1 0 0
     outer loop
       vertex -10 -10 20
-      vertex -10 0 12.5
-      vertex -10 -10 12.5
+      vertex -10 0 15
+      vertex -10 -10 15
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-      vertex -10 0 12.5
+      vertex -10 0 15
       vertex -10 -10 20
       vertex -10 10 20
     endloop
@@ -120,15 +120,15 @@ solid OpenSCAD_Model
   endfacet
   facet normal 0 -1 0
     outer loop
-      vertex 0 -10 12.5
+      vertex 0 -10 15
       vertex -10 -10 20
-      vertex -10 -10 12.5
+      vertex -10 -10 15
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
       vertex -10 -10 20
-      vertex 0 -10 12.5
+      vertex 0 -10 15
       vertex 10 -10 20
     endloop
   endfacet
@@ -136,7 +136,7 @@ solid OpenSCAD_Model
     outer loop
       vertex 0 -10 10
       vertex 10 -10 20
-      vertex 0 -10 12.5
+      vertex 0 -10 15
     endloop
   endfacet
   facet normal 0 -1 0
@@ -170,41 +170,41 @@ solid OpenSCAD_Model
   facet normal -1 0 0
     outer loop
       vertex 0 -10 10
-      vertex 0 0 12.5
+      vertex 0 0 15
       vertex 0 0 10
     endloop
   endfacet
   facet normal -1 -0 0
     outer loop
-      vertex 0 0 12.5
+      vertex 0 0 15
       vertex 0 -10 10
-      vertex 0 -10 12.5
+      vertex 0 -10 15
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-      vertex -10 -10 12.5
-      vertex 0 0 12.5
-      vertex 0 -10 12.5
+      vertex -10 -10 15
+      vertex 0 0 15
+      vertex 0 -10 15
     endloop
   endfacet
   facet normal -0 0 -1
     outer loop
-      vertex 0 0 12.5
-      vertex -10 -10 12.5
-      vertex -10 0 12.5
+      vertex 0 0 15
+      vertex -10 -10 15
+      vertex -10 0 15
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
       vertex -10 0 10
-      vertex 0 0 12.5
-      vertex -10 0 12.5
+      vertex 0 0 15
+      vertex -10 0 15
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-      vertex 0 0 12.5
+      vertex 0 0 15
       vertex -10 0 10
       vertex 0 0 10
     endloop
